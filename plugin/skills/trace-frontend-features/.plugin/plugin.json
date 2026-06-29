@@ -6,5 +6,5 @@
     "enabled": true,
     "version": "1.0.0",
     "mcp_server": "mcp_hub_frontend",
-    "tool": "findFeature"
+    "tool": "findFeatureImplementation"
 }
